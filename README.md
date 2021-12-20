@@ -1,4 +1,4 @@
-# Turkish-Sign-Language-Recognition-with-CNN
+# TSL-Recognition-with-CNN
 
 
 
