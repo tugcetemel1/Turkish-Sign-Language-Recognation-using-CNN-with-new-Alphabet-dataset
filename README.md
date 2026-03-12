@@ -55,7 +55,7 @@ https://github.com/tugcetemel1/TSL-Recognition-with-CNN
 ## Model Architecture
 
 The proposed CNN architecture contains several convolutional and normalization layers designed to extract hand gesture features efficiently.
-
+![CNN Architecture](images/cnnyapisi.jpg)
 Architecture summary:
 
 | Layer Type                 | Count |
