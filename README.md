@@ -1,6 +1,6 @@
 # Turkish Sign Language Alphabet Recognition using CNN
 
-![Paper](https://img.shields.io/badge/Paper-VISAPP2023-blue)(https://www.scitepress.org/PublishedPapers/2023/116287/116287.pdf)
+![Paper](https://www.scitepress.org/PublishedPapers/2023/116287/116287.pdf)
 ![Dataset](https://img.shields.io/badge/Dataset-Open--Source-green)
 ![Python](https://img.shields.io/badge/Python-3.9-orange)
 ![License](https://img.shields.io/badge/License-MIT-red)
