@@ -84,7 +84,7 @@ Clone the repository:
 
 ```
 git clone https://github.com/tugcetemel1/Turkish-Sign-Language-Recognation-using-CNN-with-new-Alphabet-dataset.git
-cd tsl-alphabet-cnn
+cd Turkish-Sign-Language-Recognation-using-CNN-with-new-Alphabet-dataset-main
 ```
 
 Install dependencies:
