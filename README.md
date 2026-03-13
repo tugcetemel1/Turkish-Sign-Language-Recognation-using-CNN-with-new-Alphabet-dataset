@@ -1,7 +1,7 @@
 # Turkish Sign Language Alphabet Recognition using CNN
 
 [![Paper](https://img.shields.io/badge/Paper-VISAPP2023-blue)](https://www.scitepress.org/PublishedPapers/2023/116287/116287.pdf)
-![Dataset](https://img.shields.io/badge/Dataset-Open--Source-green)
+[![Dataset](https://img.shields.io/badge/Dataset-Open--Source-green)](https://www.dropbox.com/scl/fi/o8adlrw3jls6bz2sbpczr/TSL-DATASET.zip?rlkey=gpzkccmuzpndty0jgj03xpeuf&st=921j2s0r&dl=0)
 ![Python](https://img.shields.io/badge/Python-3.9-orange)
 ![License](https://img.shields.io/badge/License-MIT-red)
 
@@ -48,9 +48,9 @@ Dynamic letters excluded from the dataset:
 
 Ğ, İ, J, Ö, Ş, Ü, Y
 
-Dataset repository:
+Dataset:
 
-https://github.com/tugcetemel1/TSL-Recognition-with-CNN
+[https://github.com/tugcetemel1/TSL-Recognition-with-CNN](https://www.dropbox.com/scl/fi/o8adlrw3jls6bz2sbpczr/TSL-DATASET.zip?rlkey=gpzkccmuzpndty0jgj03xpeuf&st=921j2s0r&dl=0)
 
 ---
 
