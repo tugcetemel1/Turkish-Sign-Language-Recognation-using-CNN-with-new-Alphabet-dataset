@@ -50,7 +50,7 @@ Dynamic letters excluded from the dataset:
 
 
 
-[![Dataset download link:](https://img.shields.io/badge/Dataset_download_link:-Dropbox--blue)](https://www.dropbox.com/scl/fi/o8adlrw3jls6bz2sbpczr/TSL-DATASET.zip?rlkey=gpzkccmuzpndty0jgj03xpeuf&st=921j2s0r&dl=0)
+[![Dataset download link:](https://img.shields.io/badge/Dataset_download-Dropbox--blue)](https://www.dropbox.com/scl/fi/o8adlrw3jls6bz2sbpczr/TSL-DATASET.zip?rlkey=gpzkccmuzpndty0jgj03xpeuf&st=921j2s0r&dl=0)
 
 
 ---
