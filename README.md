@@ -49,7 +49,6 @@ Dynamic letters excluded from the dataset:
 Ğ, İ, J, Ö, Ş, Ü, Y
 
 
-
 [![Dataset download link:](https://img.shields.io/badge/Download_Dataset-Dropbox--blue)](https://www.dropbox.com/scl/fi/o8adlrw3jls6bz2sbpczr/TSL-DATASET.zip?rlkey=gpzkccmuzpndty0jgj03xpeuf&st=921j2s0r&dl=0)
 
 
@@ -166,11 +165,8 @@ tsl-alphabet-cnn
 ├── LICENSE
 ├── CITATION.cff
 │
-├── dataset
-│
 ├── models
 │   └── cnn_model.py
-│
 ├── training
 │   └── train.py
 │
@@ -191,7 +187,7 @@ tsl-alphabet-cnn
 
 ## Citation
 
-If you use this work in your research, please cite:
+If you use this work or dataset in your research, please cite:
 
 ```
 @inproceedings{temel2023tsl,
