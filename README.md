@@ -48,9 +48,9 @@ Dynamic letters excluded from the dataset:
 
 Ğ, İ, J, Ö, Ş, Ü, Y
 
-Dataset:
 
-![](https://img.shields.io/badge/Dropbox--blue)](https://www.dropbox.com/scl/fi/o8adlrw3jls6bz2sbpczr/TSL-DATASET.zip?rlkey=gpzkccmuzpndty0jgj03xpeuf&st=921j2s0r&dl=0)
+
+[![Dataset download link: ](https://img.shields.io/badge/Dropbox--blue)](https://www.dropbox.com/scl/fi/o8adlrw3jls6bz2sbpczr/TSL-DATASET.zip?rlkey=gpzkccmuzpndty0jgj03xpeuf&st=921j2s0r&dl=0)
 
 ---
 
