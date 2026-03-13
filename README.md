@@ -190,10 +190,9 @@ tsl-alphabet-cnn
 If you use this work or dataset in your research, please cite:
 
 ```
-@inproceedings{temel2023tsl,
-  title={Turkish Sign Language Recognition Using CNN with New Alphabet Dataset},
-  author={Temel, Tugce and Vural, Revna Acar},
-  booktitle={International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications (VISAPP)},
+@inproceedings{temel2023turkish,
+  title={Turkish Sign Language Recognition Using CNN with New Alphabet Dataset.},
+  author={Temel, Tug{\c{c}}e and Vural, Revna Acar},
   year={2023}
 }
 ```
