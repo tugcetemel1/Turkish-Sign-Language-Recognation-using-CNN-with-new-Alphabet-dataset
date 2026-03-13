@@ -3,7 +3,7 @@
 [![Paper](https://img.shields.io/badge/Paper-VISAPP2023-blue)](https://www.scitepress.org/PublishedPapers/2023/116287/116287.pdf)
 [![Dataset](https://img.shields.io/badge/Dataset-Open--Source-green)](https://www.dropbox.com/scl/fi/o8adlrw3jls6bz2sbpczr/TSL-DATASET.zip?rlkey=gpzkccmuzpndty0jgj03xpeuf&st=921j2s0r&dl=0)
 ![Python](https://img.shields.io/badge/Python-3.9-orange)
-[![License](https://img.shields.io/badge/License-MIT-red)][LICENSE]
+[![License](https://img.shields.io/badge/License-MIT-red)](LICENSE)
 
 Official implementation of the VISAPP 2023 paper:
 
