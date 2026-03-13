@@ -31,7 +31,7 @@ Key contributions:
 ## Dataset
 
 The dataset consists of static Turkish Sign Language alphabet gestures collected from volunteers using multiple cameras and environments.
-![Dataset Distribution](veriyapısı.png)
+![Dataset Distribution](figures/veriyapısı.png)
 **Dataset statistics**
 
 | Property          | Value      |
@@ -56,7 +56,7 @@ https://github.com/tugcetemel1/TSL-Recognition-with-CNN
 
 The proposed CNN architecture contains several convolutional and normalization layers designed to extract hand gesture features efficiently.
 
-![CNN Architecture](cnnyapisi.jpg)
+![CNN Architecture](figures/cnnyapisi.jpg)
 Architecture summary:
 
 | Layer Type                 | Count |
