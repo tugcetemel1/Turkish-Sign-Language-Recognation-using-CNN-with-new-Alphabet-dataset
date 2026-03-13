@@ -83,7 +83,7 @@ The architecture is designed to be lightweight while maintaining high recognitio
 Clone the repository:
 
 ```
-git clone https://github.com/username/tsl-alphabet-cnn.git
+git clone https://github.com/tugcetemel1/Turkish-Sign-Language-Recognation-using-CNN-with-new-Alphabet-dataset.git
 cd tsl-alphabet-cnn
 ```
 
