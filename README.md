@@ -31,7 +31,7 @@ Key contributions:
 ## Dataset
 
 The dataset consists of static Turkish Sign Language alphabet gestures collected from volunteers using multiple cameras and environments.
-![Dataset Distribution](figures/veriyapısı.png)
+![Dataset Distribution](figures/verriyapısı.png)
 **Dataset statistics**
 
 | Property          | Value      |
